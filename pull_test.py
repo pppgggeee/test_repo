@@ -1,1 +1,2 @@
 print("웹에서 생성한 페이지로 pull을 해야 내 로컬로 들어옴")
+print("$ git pull")
